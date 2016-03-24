@@ -3,5 +3,6 @@ Country Selector spinner for Android
 
 **Screenshots:**
 
-![Selecting state](https://raw.githubusercontent.com/shiladitya-bits/country-selector-android/master/screenshots/selector.png)
-![Selected state](https://raw.githubusercontent.com/shiladitya-bits/country-selector-android/master/screenshots/selected.png)
+<img height="700" width="400" src="https://raw.githubusercontent.com/shiladitya-bits/country-selector-android/master/screenshots/selector.png"/>
+
+<img height="700" width="400" src="https://raw.githubusercontent.com/shiladitya-bits/country-selector-android/master/screenshots/selected.png"/>
